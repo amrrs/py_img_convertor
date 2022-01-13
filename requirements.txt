@@ -2,4 +2,4 @@
 # https://github.com/damnever/pigar
 
 # image_convertor_py.py: 1
-Pillow == 8.3.2
+Pillow == 9.0.0
